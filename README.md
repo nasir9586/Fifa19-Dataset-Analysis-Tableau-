@@ -1,5 +1,5 @@
 
-# FIFA 19 Dataset Analysis - Tableau
+# FIFA 19 Dataset Analysis using Tableau
 
 ## Project Overview
 This project uses the FIFA 19 dataset to analyze football players' performance, market value, and potential using Tableau. Key insights are drawn through various visualizations that explore player ratings, skill sets, and market trends. The goal is to create a comprehensive dashboard that helps users understand player characteristics and team dynamics across different nationalities, positions, and clubs.
